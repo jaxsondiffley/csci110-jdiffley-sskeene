@@ -1,5 +1,5 @@
 import airtime 
-
+# completed in class
 def test_main1():
     assert airtime.airtime([0, 1, 2, 3, 9, 10, 9])==2
 
