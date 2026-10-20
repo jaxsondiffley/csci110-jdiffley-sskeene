@@ -1,5 +1,5 @@
 import sys
-
+# Resources Used: ChatGPT for questions and explanations
 def airtime(heights):
   
 
